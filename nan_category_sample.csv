@@ -1,6 +1,0 @@
-Event.Id,Accident.Number,Event.Date,Location,Injury.Severity,Aircraft.damage,Aircraft.Category,Make,Model,Number.of.Engines,Engine.Type,Purpose.of.flight,Private_or_Commercial,Total.Fatal.Injuries,Total.Serious.Injuries,Total.Minor.Injuries,Total.Injuries,Total.Uninjured,Weather.Condition,Publication.Date
-20001213X33524,DEN86FA146,1986-05-31,"CHEYENNE, WY",Fatal(1),Destroyed,,Bauer's Mitchell Wing,U-2,1.0,Reciprocating,Personal,Private,1.0,0.0,0.0,1.0,0.0,VMC,
-20001212X17940,NYC91DNC04,1991-08-03,"GILFORD, NH",Non-Fatal,Substantial,,Laurent A. Cloutier,BD-5B,1.0,Reciprocating,Personal,Private,0.0,0.0,1.0,1.0,0.0,VMC,27-04-1993
-20001213X30954,LAX87DUM03,1987-05-10,"CHULA VISTA, CA",Fatal(2),Destroyed,,Chance Vought,F4U-7,1.0,Reciprocating,Personal,Private,2.0,0.0,0.0,2.0,0.0,VMC,05-07-1988
-20001214X43208,ATL83LA218,1983-06-04,"NEWPORT, MD",Non-Fatal,Substantial,,"Rotec Engineering, Inc.",RALLY 3,1.0,Reciprocating,Personal,Private,0.0,0.0,0.0,0.0,1.0,VMC,
-20001208X08114,FTW97LA209,1997-06-01,"LAKE JACKSON, TX",Fatal(1),Substantial,,Giertz,VMAX PROBE,1.0,Reciprocating,Unknown,Unknown,1.0,0.0,0.0,1.0,0.0,VMC,26-06-1998
