@@ -10,7 +10,7 @@ Assessing the risk of aircrafts for the sole purpose of expanding our business p
   
   We are mainly concerned with the safety and risk of each type of aircraft, therefore we analyzed the risk based on category of aircraft, usecase, make, model and survival rate of passengers.
   
-  out of all types of aircrafts available in the dataset, we chose to use the airplane aircraft. The dataset has data which dates back over 60 years, we decided to use only the latest 20 years of data. This prevented the inclusion of airplanes that are just to old and would not give us a present and modern result of existing airplanes. 
+  Out of all types of aircrafts available in the dataset, we chose to use the airplane aircraft. The dataset has data which dates back over 60 years, we decided to use only the latest 20 years of data. This prevented the inclusion of airplanes that are just to old and would not give us a present and modern result of existing airplanes. 
   
   In conclusion, our analysis filtered out that the best feature and combinations of airplanes that carries low risk to passengers and destruction of airplanes, are those that are dual engines, jet propulsion and specific types of makes and models.
   
