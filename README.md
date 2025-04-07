@@ -14,5 +14,5 @@ Assessing the risk of aircrafts for the sole purpose of expanding our business p
   
   In conclusion, our analysis filtered out that the best feature and combinations of airplanes that carries low risk to passengers and destruction of airplanes, are those that are dual engines, jet propulsion and specific types of makes and models.
 
-  interactive Tableau dashboard: https://public.tableau.com/views/AirplaneBusinessanalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+  interactive Tableau dashboard: [https://public.tableau.com/views/AirplaneBusinessanalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/rahaman.yusuf/viz/AirplaneBusinessanalysis/Dashboard2)
   
